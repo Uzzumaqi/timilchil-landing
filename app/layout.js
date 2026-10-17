@@ -8,7 +8,7 @@ const tajawal = Tajawal({
 });
 
 export const metadata = {
-  title: 'خل تفاح تيملشيل الطبيعي - Timilchil',
+  title: 'Timilchil',
   description: 'خل تفاح طبيعي 100% بدون مواد حافظة - طلب مباشر والدفع عند الاستلام بالمغرب',
 };
 
